@@ -1,22 +1,23 @@
 ---
  layout: archive
- title: Dr Alice Mason
+ title: AMPC 18
  permalink: /
  header:
-  overlay_image: "/assets/images/grand.jpg"
+  overlay_image: "/assets/images/water.jpg"
 ---
 
-# About me
+## Australian Mathmatical Society Conference 2018
 
-I am an experimental psychologist whose research centres around memory and decision-making in humans. I use a range of experimental techniques including electroencephalography (EEG), functional magnetic resonance imaging (fMRI), eye-tracking and computational modelling. 
+This years conference will be held in Perth, Australia and is being hosted by University of Western Australia.
 
+The conference will run from February 13-15th with pre-conference workshops on the 13th.
 
-## Bio 
+The conference is being held at St Catherine's college.
 
-I completed by undergraduate degree in Experimental Psychology at the University of Bristol.
-In 2016 I finished my PhD at the interdisciplinary centre for decision-making at the University of Bristol.
-My PhD work focused on how rewards improve learning and memory.
+MAP.
 
-I worked for a year as a Senior Research Asociate on a multidisciplinary project examining the food reward and obesity before
-moving to the University of Western Australia in Perth to work with Professor Simon Farrell.
+Please follow the links at the top of the page to find information about registration, conference dinner, abstract submission and accomodation.
+
+We look forward to seeing you in Perth.
+
 
