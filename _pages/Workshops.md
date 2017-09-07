@@ -1,9 +1,9 @@
 ---
  layout: archive
- permalink: /_pages/research/
- title: "Research"
+ permalink: /_pages/Workshops/
+ title: "Workshops"
  header:
-   overlay_image: "/assets/images/kayak.jpg"
+   overlay_image: "/assets/images/water.jpg"
  author_profile: false  
 ---
 

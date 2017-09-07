@@ -1,9 +1,9 @@
 ---
  layout: archive
- permalink: /_pages/podcast/
- title: "The State of Our Knowledge"
+ permalink: /_pages/Contact/
+ title: "Contact"
  header:
-   overlay_image: "/assets/images/BigBen.jpg"
+   overlay_image: "/assets/images/water.jpg"
 ---
 
 If you have an questions or would like to be added to the conference mailing list, please contact Alice Mason (alice.mason@uwa.edu.au)
