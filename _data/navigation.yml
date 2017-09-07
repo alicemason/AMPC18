@@ -1,9 +1,9 @@
 # main links
 main:
 - title: "Workshops"
-  url: _pages/Workshops/
+  url: /_pages/Workshops/
 - title: "Abstracts"
-  url: _pages/Abstracts/
+  url: /_pages/Abstracts/
   - title: "Accomodation"
   url: /_pages/Accomodation/
 - title: "Accomodation"
