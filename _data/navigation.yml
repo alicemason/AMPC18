@@ -1,0 +1,14 @@
+# main links
+main:
+- title: "Home"
+  url: /_pages/Home/
+- title: "Workshops"
+  url: _pages/Workshops/
+- title: "Abstracts"
+  url: _pages/Abstracts/
+  - title: "Accomodation"
+  url: /_pages/Contact/
+- title: "Accomodation"
+  url: /_pages/Contact/
+
+
