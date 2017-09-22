@@ -9,9 +9,9 @@
 locale                   : "en"
 title                    : "AMPC"
 title_separator          : "-"
-name                     : "Dr Alice Mason"
-description              : "Research Associate in Cognitive Science at UWA."
-url                      : "https://alicemason.github.io/AMPC18"
+name                     : 
+description              :
+url                      : 
 baseurl                  : #
 repository               : "alicemason/AMPC18"
 teaser                   :  /assets/images/water.jpg
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Alice Mason"
+  name             : 
   avatar           : 
   bio              : 
-  location         : "Australia"
-  email            : "alice.mason@uwa.edu.au"
+  location         : 
+  email            : 
   uri              : 
   bitbucket        :
   codepen          :

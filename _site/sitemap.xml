@@ -21,4 +21,8 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/ampc-program.pdf</loc>
+<lastmod>2017-08-10T12:05:03+08:00</lastmod>
+</url>
 </urlset>
