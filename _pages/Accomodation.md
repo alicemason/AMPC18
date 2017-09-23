@@ -3,7 +3,7 @@
  permalink: /_pages/Accomodation/
  title: "Accomodation"
  header:
-   overlay_image: "/assets/images/water.jpg"
+   overlay_image: "/assets/images/city.jpg"
  author_profile: false  
 ---
 

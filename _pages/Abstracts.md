@@ -3,7 +3,7 @@
  permalink: /_pages/Abstracts/
  title: "Research"
  header:
-   overlay_image: "/assets/images/water.jpg"
+   overlay_image: "/assets/images/cott.jpg"
  author_profile: false  
 ---
 

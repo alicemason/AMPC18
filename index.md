@@ -3,7 +3,7 @@
  title: AMPC 18
  permalink: /
  header:
-  overlay_image: "/assets/images/water.jpg"
+  overlay_image: "/assets/images/city2.jpg"
 ---
 
 ## Australian Mathmatical Society Conference 2018
