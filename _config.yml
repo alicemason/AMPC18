@@ -11,7 +11,7 @@ title                    : "AMPC"
 title_separator          : "-"
 name                     : 
 description              :
-url                      : 
+url                      : "https://alicemason.github.io/AMPC18"
 baseurl                  : #
 repository               : "alicemason/AMPC18"
 teaser                   :  /assets/images/water.jpg
