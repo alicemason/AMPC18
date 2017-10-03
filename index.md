@@ -6,7 +6,7 @@
   overlay_image: "/assets/images/city2.jpg"
 ---
 
-## Australian Mathmetical Society Conference 2018
+## Australian Mathematical Society Conference 2018
 
 This year’s conference will be held in Perth, Australia and is being hosted by the University of Western Australia.
 
