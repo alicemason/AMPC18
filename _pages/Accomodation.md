@@ -7,11 +7,15 @@
  author_profile: false  
 ---
 
-## [St Catherine's on Park](http://www.stcatherinesonpark.com.au)
+## St Catherine's on Park
+
+<http://www.stcatherinesonpark.com.au>
 
 Rooms starting from $190
 
-## [Trinity on Hampden](http://www.trinityonhampden.com.au/guest-accommodation/)
+## Trinity on Hampden
+
+<http://www.trinityonhampden.com.au/guest-accommodation/>
 
 Rooms starting from $130
 5 minute walk from venue.

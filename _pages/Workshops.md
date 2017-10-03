@@ -9,9 +9,14 @@
 
 On the 13th February we will be hosting two pre-conference workshops.
 
-
 ## Workshop A
 
-## Workshop B Panel Discussion
+More details coming soon.
 
-    We plan to host career development workshop to promote gender diversity in mathmatical psychology. Everyone is welcome to attend. If you have any topics that you would like to see covered in this panel discussion or you would like to contribute to the discussion as a panel member please contact Alice Mason (alice.mason@uwa.edu.au)
+## Workshop B: Panel Discussion
+
+We plan to host career development workshop to promote gender diversity in mathmatical psychology. Everyone is welcome to attend. 
+If you have any topics that you would like to see covered in this panel discussion or you would like to contribute to the 
+discussion as a panel member, please contact Alice Mason (alice.mason@uwa.edu.au).
+
+
