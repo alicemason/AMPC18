@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : 
 description              :
 url                      : "https://alicemason.github.io/AMPC18/"
-baseurl                  : /AMPC18
+baseurl                  : / #/AMPC18
 repository               : #"alicemason/AMPC18"
 teaser                   :  /assets/images/water.jpg
 # breadcrumbs            : false # true, false (default)
