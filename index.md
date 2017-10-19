@@ -6,18 +6,23 @@
   overlay_image: "/assets/images/city2.jpg"
 ---
 
-## Australian Mathematical Society Conference 2018
+## Australian Mathematical Psychology Conference 2018 (AMPC18)
 
-This year’s conference will be held in Perth, Australia and is being hosted by the University of Western Australia.
+The University of Western Australia is delighted to host the 2018 Australian Mathematical Psychology Conference in Perth, Western Australia.
 
-The conference will run from February 14th-15th with pre-conference workshops on the 13th.
+The conference will run February 14--15 2018, with pre-conference workshops on the 13th.
 
-The conference is being held at St Catherine's college, which is a short walk from the UWA campus in Crawley. 
-
+The conference is being held at St Catherine's college, a short walk from the UWA campus in Crawley.
 
 Please follow the links at the top of the page to find information about registration, conference dinner, abstract submission and accommodation.
 
-We look forward to seeing you in Perth.
+We thanks the following organisations for supporting the conference, and look forward to seeing you in Perth!
+
+* Office of the Deputy Vice-Chancellor (Research), UWA
+* Perth Convention Bureau
+* UWA Institute of Advanced Studies
+
+<img src="UWA-Full-Hor-CMYK.png" height="150"/> <img src="(ILL CMYK) PCB logo HIGH RES.JPG" height="150"/> <img src="TWA + Govt - Colour.jpg" height="150"/> 
 
 
 
