@@ -22,7 +22,7 @@ We thanks the following organisations for supporting the conference, and look fo
 * Perth Convention Bureau
 * UWA Institute of Advanced Studies
 
-<img src="UWA-Full-Hor-CMYK.png" height="150"/> <img src="(ILL CMYK) PCB logo HIGH RES.JPG" height="150"/> <img src="TWA + Govt - Colour.jpg" height="150"/> 
+<img src="assets/images/UWA-Full-Hor-CMYK.png" width="200" hspace="20"/> <img src="assets/images/(ILL CMYK) PCB logo HIGH RES.JPG" width="100" hspace="20"/> <img src="assets/images/TWA + Govt - Colour.jpg" width="200" hspace="20"/> 
 
 
 
