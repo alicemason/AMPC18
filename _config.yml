@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "AMPC"
+title                    : "AMPC18"
 title_separator          : "-"
 name                     : 
 description              :
-url                      : 
-baseurl                  : #
-repository               : "alicemason/AMPC18"
+url                      : "https://alicemason.github.io"
+baseurl                  : "/AMPC18"
+repository               : #"alicemason/AMPC18"
 teaser                   :  /assets/images/water.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
