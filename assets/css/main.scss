@@ -3,13 +3,12 @@
 ---
 
 @charset "utf-8";
+$link-color: red;
 
 @import "minimal-mistakes";
 
 html {
   font-size: 14px; // change to whatever
-  link-color: red;
-
   @include breakpoint($medium) {
     font-size: 16px; // change to whatever
   }
