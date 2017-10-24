@@ -8,7 +8,8 @@
 
 html {
   font-size: 14px; // change to whatever
-  $link-color: red;
+  link-color: red;
+
   @include breakpoint($medium) {
     font-size: 16px; // change to whatever
   }
