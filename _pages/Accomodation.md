@@ -13,7 +13,7 @@ Several colleges in close proximity to UWA and the conference venue provide acco
 
 ## St Catherine's on Park
 
-<http://www.stcatherinesonpark.com.au>
+[St Catherine's](http://www.stcatherinesonpark.com.au)
 
 St Catherine's is also the venue for the conference, and so provides a very short walk to the talks! A variety of studio and bedroom apartments are available, starting from $190.
 
