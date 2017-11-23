@@ -14,8 +14,6 @@ The conference will run February 14--15 2018, with pre-conference workshops on t
 
 The conference is being held at St Catherine's college, a short walk from the UWA campus in Crawley.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Venue.png){: .align-center}
-
 Please follow the links at the top of the page to find information about registration, conference dinner, abstract submission and accommodation.
 
 We thank the following organisations for supporting the conference, and look forward to seeing you in Perth!
