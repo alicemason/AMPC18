@@ -9,7 +9,9 @@
 
 On the 13th February we will host two pre-conference workshops.
 
-## Workshop A: Panel Discussion on Gender and STEM
+## Workshop A: Professional Development Symposium
+
+Panel Discussion on Gender and STEM
 
 Discussant: Prof Amy Criss, Syracuse University (USA)
 
