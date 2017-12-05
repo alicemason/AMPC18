@@ -19,8 +19,7 @@ As per last year, the goal of including the Brief Talk format is to encouraging 
 # guidelines
 
 <ul>
-<li>Please email your abstracts to Alice Mason [alice.mason@uwa.edu.au](mailto:alice.mason@uwa.edu.au) with the subject line
-"AMPC 2018 Abstract".</li> 
+<li> Please email your abstracts to Alice Mason [alice.mason@uwa.edu.au](mailto:alice.mason@uwa.edu.au) with the subject line "AMPC 2018 Abstract".</li> 
 <li> Please indicate whether you are applying for a Full Talk, a Brief Talk, or have No Preference.</li> 
 <li> Abstracts should be no more than half a page in length and can be submitted in Word or Text format.</li>
 <li> Please include a full list of co-authors. Include an asterisk indicating the presenting author.</li>
