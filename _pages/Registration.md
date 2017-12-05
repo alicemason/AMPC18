@@ -7,7 +7,7 @@
 ---
 # Registration now open!
 
-Please follow the link to the Eventbrite page to register:
+Please follow this link to the Eventbrite page to register: <br /> 
 <https://www.eventbrite.com.au/e/australian-mathematical-psychology-conference-2018-tickets-40809998805>
 
 Early bird prices until 11.30pm 15/01/18 <br /> 
