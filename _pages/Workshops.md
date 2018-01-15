@@ -39,6 +39,6 @@ Participants will use the custom STACMR software package developed by the author
 
 In addition, participants should download the following files:
 
-* [State-trace analysis.pdf (a copy of the book)](/assets/statetrace/sta.pdf)
-* [STACMR-matlab.zip (if using Matlab)](/assets/statetrace/STACMR-matlab.zip)
-* [STACMR-R.zip (if using R)](/assets/statetrace/STACMR-R.zip)
+* [State-trace analysis.pdf (a copy of the book)](/AMPC18/assets/statetrace/sta.pdf)
+* [STACMR-matlab.zip (if using Matlab)](/AMPC18/assets/statetrace/STACMR-matlab.zip)
+* [STACMR-R.zip (if using R)](/AMPC18/assets/statetrace/STACMR-R.zip)
