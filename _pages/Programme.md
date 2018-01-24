@@ -12,5 +12,5 @@
 We will post a PDF of the programme in the next few weeks.
 
 # Schedule
-
-Coming soon!
+You can download a copy of the schedule for the conference here.
+* [Schedule.pdf](/AMPC18/assets/AMPC18schedule.pdf)
