@@ -2,12 +2,14 @@
 main:
 - title: "Workshops"
   url: /_pages/Workshops/
-- title: "Abstracts"
-  url: /_pages/Abstracts/
+  - title: "Programme"
+  url: /_pages/Programme/
 - title: "Registration"
   url: /_pages/Registration/
 - title: "Accomodation"
   url: /_pages/Accomodation/
+  - title: "Abstracts"
+  url: /_pages/Abstracts/
 - title: "Contact"
   url: /_pages/Contact/
 
