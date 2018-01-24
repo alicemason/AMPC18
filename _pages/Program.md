@@ -1,15 +1,15 @@
 ---
  layout: archive
- permalink: /_pages/Programme/
- title: "Programme"
+ permalink: /_pages/Program/
+ title: "Program"
  header:
    overlay_image: "/assets/images/cott.jpg"
  author_profile: false  
 ---
 
-# Programme
+# Program
 
-We will post a PDF of the programme in the next few weeks.
+We will post a PDF of the program in the next few weeks.
 
 # Schedule
 You can download a copy of the schedule for the conference here.
