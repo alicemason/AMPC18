@@ -34,6 +34,13 @@ library("lubridate")
 ```{r readxls, echo=FALSE}
 abstracts <- read.xls ("Maths Psych_V2.xlsx", sheet = 1, header = TRUE,
                               stringsAsFactors=FALSE)
+
+#abstracts <- abstracts[abstracts$Abstract!="",]
+abstracts$Abstract <- iconv(abstracts$Abstract)
+abstracts$All.Authors <- iconv(abstracts$All.Authors)
+abstracts$Affiliations <- iconv(abstracts$Affiliations)
+abstracts$Title <- iconv(abstracts$Title)
+
 titles <- read.xls ("Maths Psych_V2.xlsx", sheet = 3, header = TRUE,
                               stringsAsFactors=FALSE)
 titles <- titles[titles$Title!="",]
@@ -101,3 +108,21 @@ for (days in 1:2){
   }
 }
 ```
+
+
+## Abstracts
+``` {r Abstracts, echo=FALSE, warning=FALSE, results="asis"}
+  for (i in 1:dim(abstracts)[1]){
+  
+  Title<-abstracts$Title[i]
+  Authors<-abstracts$All.Authors[i]
+  Affiliation<-abstracts$Affiliation[i]
+  Abstract<-abstracts$Abstract[i]
+  cat("\n\n\n", Title,"\n")
+  cat("\n", Authors,"\n")
+  cat("\n", Affiliation,"\n")
+  cat("\n", Abstract,"\n\n\n")
+  }
+```
+
+
