@@ -11,17 +11,15 @@ On the 13th February we will host two pre-conference workshops.
 
 ## Workshop A: Professional Development Symposium (Morning)
 
-Panel Discussion on Gender and STEM
+Panel Discussion on Gender and STEM - St Catherine's collge 10am-12noon
 
-Follow this link to read more about the workshop and [register] (http://www.ias.uwa.edu.au/masterclass/STEMresearch). 
+This career development workshop aims to promote gender equality and diversity in mathematical psychology. Follow this link to read more about the workshop and [register](http://www.ias.uwa.edu.au/masterclass/STEMresearch). 
 
 Professor Amy Criss will be joined in a panel discussion by Associate Professor Amy Perfors (University of Melbourne) and Associate Professor Chris Donkin (UNSW). Discussion will be facilitated by Dr Alice Mason (UWA) who is chair of the Gender Diversity Committee in the School of Psychological Science.  This masterclass is open to attendees of any gender. 
 
-Discussant: Prof Amy Criss, Syracuse University (USA)
+ Prof Criss is Head of Discipline (Psychology) at Syracuse, a world-leading expert in the computational modelling of human memory. Prof Criss has been [substantially involved](http://memolab.syr.edu/Pride.html) in efforts to enhance diversity in undergraduate students, and was President of the Society for Mathematical Psychology. Prof Criss involvement is supported by UWA's Institute of Advanced Studies.
 
-This career development workshop aims to promote gender equality and diversity in mathematical psychology. Discussion will be facilitated by Prof Amy Criss. Prof Criss is Head of Discipline (Psychology) at Syracuse, a world-leading expert in the computational modelling of human memory. Prof Criss has been [substantially involved](http://memolab.syr.edu/Pride.html) in efforts to enhance diversity in undergraduate students, and was President of the Society for Mathematical Psychology. Prof Criss involvement is supported by UWA's Institute of Advanced Studies.
-
-Everyone is welcome to attend this discussion-based workshop. If you have any questions please contact Alice Mason (alice.mason@uwa.edu.au).
+If you have any questions please contact Alice Mason (alice.mason@uwa.edu.au).
 
 ## Workshop B: Workshop on State-trace Analysis (Afternoon)
 
