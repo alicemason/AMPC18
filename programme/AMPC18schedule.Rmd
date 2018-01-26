@@ -1,14 +1,126 @@
 ---
-title: "AMPC18 Schedule"
+title: ""
 author: ""
 date: ""
 output:
   pdf_document:
     keep_tex: true
+    fig_caption: false
+  fontsize: 12pt
   html_document:
     keep_md: true
     theme: "cerulean"
 ---
+
+\begin{center}
+\Huge
+{\bf Australian Mathmatical Psychology Conference 2018}    
+\vspace{3 cm}
+\end{center}
+
+\begin{center}
+\includegraphics[width=8cm]{images/River}
+\vspace{0.5 cm}
+\end{center}
+
+\begin{center}
+\Large {\it 14th-15th February}
+
+{\bf Perth, Australia}
+\end{center}
+
+\newpage
+
+# Welcome
+The University of Western Australia is delighted to host the 2018 Australian Mathematical Psychology Conference in Perth, Western Australia. The conference runs from February 14th–15th 2018, with pre-conference workshops on the 13th February.
+
+# Venue Information
+All sessions will be held at The  St Catherine’s college, a short walk from the UWA campus in Crawley.
+There will be morning and afternoon tea and a continuous supply of tea and coffee at the venue - included in the registration price. There are plenty of options for lunch and coffee a short walk from the venue. 
+
+\begin{center}
+\vspace{0.5 cm}
+\includegraphics[width=10cm]{images/Venue}
+\vspace{0.5 cm}
+\end{center}
+
+## Acknowledgement
+We acknowledge that the University of Western Australia is situated on Noongar land, that the Noongar people remain the spiritual and cultural custodians of their land and continue to practise their values, languages, beliefs and knowledge.
+We pay our respects to them and their cultures; and to elders both past and present.
+
+# Conference Dinner
+
+The conference dinner is on Thursday 15th Feb at Jojo's Cafe on the Swan River. 
+The dinner is approximately a 25 minute walk from the conference. You could also catch the number 24 bus near the venue. Drinks and canapes will be available from 6 pm. Dinner will be served at 7 pm.
+
+\begin{center}
+\vspace{1 cm}
+\includegraphics[width=10cm]{images/Dinner}
+\vspace{2 cm}
+\end{center}
+
+## Conference Code of Conduct
+We are committed to making AMPC18 an inclusive, respectful and harassment-free experience. Harassment and hostile behaviour are unwelcome at any of the scientific and social events associated with the conference. Harassment includes degrading verbal comments, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
+
+If you have any concerns please contact one of the organisers.
+
+# Soccer 
+
+We will have the what was the traditional cricket game (now soccer) at the end of the first day of the conference (Wednesday, February
+14th). At the end of the schedule (~ 5.30pm) we will walk to Riley Oval, which is approxamtely 10 minutes walk from the conference venuce. 
+
+\begin{center}
+\vspace{2 cm}
+\includegraphics[width=10cm]{images/Soccer}
+\vspace{2 cm}
+\end{center}
+\newpage
+
+# Workshops
+
+There will be two free workshops held on the 13th February at the conference venue.
+
+## Morning Workshop - Masterclass in Creating Opportunities and Developing your Research Skills
+*10am -12 noon, St Catherine's College, UWA*
+
+In this masterclass, we will hear from three senior scientists in the field of Mathematical Psychology about the opportunities for professional development that have been available to them throughout their careers and how they reached their current positions. In particular, we will focus on how they developed their skills in computational modelling and advanced statistical methods. Furthermore, we will discuss the steps that senior scientists can take to support the Early Career Researchers they work with and ensure that we promote gender diversity in STEM. 
+
+This masterclass is supported by the Institue of Advanced Studies at UWA. Professor Amy Criss, Head of Discipline, Psychology, Syracuse University and 2018 Institute of Advanced Studies Visiting Fellow, will be joined in a panel discussion by Associate Professor Amy Perfors (University of Melbourne) and Associate Professor Chris Donkin (UNSW). Discussion will be facilitated by Dr Alice Mason (UWA) who is chair of the Gender Diversity Committee in the School of Psychological Science.  
+
+The masterclass is open to attendees of any gender. 
+You can register for the workshop here: http://www.ias.uwa.edu.au/masterclass/STEMresearch
+
+## Afternoon Workshop - Workshop on State-trace Analysis
+*ADD TIME, St Catherine's College, UWA *
+
+Presenters: John Dunn, Mike Kalish, Rachel Stephens
+
+The aim of this workshop is to provide a brief introduction to the application of state-trace analysis (STA) to psychological data based on the book,
+
+Dunn, J.C. & Kalish, M. L. (in press). State-trace analysis. Springer.
+
+The following aspects will be covered:
+
+Brief introduction to the logic of STA
+Fitting the monotonic model
+Analysis of continuous data
+Analysis of discrete data
+Participants will use the custom STACMR software package developed by the authors. This will require that either Matlab or R be installed (both are supported), as well as java. Any version of java on or after version 1.7 is good. If java is not installed, it can be downloaded from http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html.
+
+In addition, participants should download the following files:
+
+* [State-trace analysis.pdf (a copy of the book)](https://alicemason.github.io/AMPC18/assets/statetrace/sta.pdf)
+* [STACMR-matlab.zip (if using Matlab)](https://alicemason.github.io/AMPC18/assets/statetrace/STACMR-matlab.zip)
+* [STACMR-R.zip (if using R)](https://alicemason.github.io/AMPC18/assets/statetrace/STACMR-R.zip)
+
+## Public Lecture by Professor Amy Criss
+A public lecture by Amy H. Criss, Head of Discipline, Psychology, Syracuse University and 2018 Institute of Advanced Studies Visiting Fellow.
+6-7pm, Woolnough Lecture Theatre, Geology Building, UWA
+Register here: http://www.ias.uwa.edu.au/lectures/criss
+
+
+\newpage
+# Conference Timetable
 
 <style>
 th, td {
@@ -109,8 +221,8 @@ for (days in 1:2){
 }
 ```
 
-
-## Abstracts
+\newpage
+# Abstracts
 ``` {r Abstracts, echo=FALSE, warning=FALSE, results="asis"}
   for (i in 1:dim(abstracts)[1]){
   
@@ -121,7 +233,7 @@ for (days in 1:2){
   cat("\n\n\n", Title,"\n")
   cat("\n", Authors,"\n")
   cat("\n", Affiliation,"\n")
-  cat("\n", Abstract,"\n\n\n")
+  cat("\n", Abstract,"\n\n\n\n\n")
   }
 ```
 
