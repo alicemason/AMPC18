@@ -11,7 +11,7 @@ On the 13th February we will host two pre-conference workshops.
 
 ## Workshop A: Professional Development Symposium (Morning)
 
-Panel Discussion on Gender and STEM - St Catherine's collge 10am-12noon
+Panel Discussion on Gender and STEM - St Catherine's college 10am-12noon
 
 This career development workshop aims to promote gender equality and diversity in mathematical psychology. Follow this link to read more about the workshop and [register](http://www.ias.uwa.edu.au/masterclass/STEMresearch). 
 
