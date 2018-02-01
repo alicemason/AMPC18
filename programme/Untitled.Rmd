@@ -22,7 +22,7 @@ tr:nth-child(even) {
 
 \begin{center}
 \includegraphics[height=15cm]{images/reflection.png}
-\begin{table}
+\begin{table}[b]
 \begin{tabular}{cccc}
 \includegraphics[width=3cm]{images/UWA-Full-Hor-CMYK.png}&
 \includegraphics[width=3cm]{images/PCB.png}&
@@ -132,8 +132,8 @@ Those attending will need to bring their own laptop to take part in the activiti
 
 ## Evening: Public lecture by Prof Amy Criss
 
-Prof. Amy Criss will be giving an Institute of Advanced Studies public lecture 6pm--7pm on the 13th in Woolnough Lecture Theatre, Geology Building, UWA (a 5--10 min walk from St Catherines). The talk is titled "How remembering causes forgetting".
-You can find out more details and book a seat [http://www.ias.uwa.edu.au/lectures/criss](http://www.ias.uwa.edu.au/lectures/criss)
+Professor Amy Criss will be giving an Institute of Advanced Studies public lecture 6pm--7pm on the 13th in Woolnough Lecture Theatre, Geology Building, UWA (a 5--10 min walk from St Catherines). The talk is titled "How remembering causes forgetting".
+You can find out more details and book a seat: [http://www.ias.uwa.edu.au/lectures/criss](http://www.ias.uwa.edu.au/lectures/criss)
 
 "Humans rely on memory at nearly every moment: we use our memories of the past to predict the future, and memory is essential to our concept of self. Nevertheless, our memory for the details of events is imperfect. Some details of an event are forgotten and other details can be falsely remembered. One other striking characteristic of memory is that that act of remembering can change what is being remembered: retrieving events from memory changes our memory of those individual events.
 

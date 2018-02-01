@@ -14,7 +14,7 @@ output:
 
 \begin{center}
 \Huge
-{\bf Australian Mathmatical Psychology Conference 2018}    
+{\bf Australian Mathematical Psychology Conference 2018}    
 \vspace{3 cm}
 \end{center}
 
@@ -24,19 +24,43 @@ output:
 \end{center}
 
 \begin{center}
-\Large {\it 14th-15th February}
-
-{\bf Perth, Australia}
+\Large {\it 13th-15th February, \bf Perth, WA}
 \end{center}
 
+\renewcommand{\arraystretch}{1.5}
+\begin{center}
+\begin{table}[b]
+\begin{tabular}{cccc}
+\includegraphics[width=3cm]{images/UWA-Full-Hor-CMYK.png}&
+\includegraphics[width=3cm]{images/PCB.png}&
+School of Psychological Science &
+Institute of Advanced Studies
+\end{tabular}
+\end{table}
+\end{center}
 \newpage
 
 # Welcome
-The University of Western Australia is delighted to host the 2018 Australian Mathematical Psychology Conference in Perth, Western Australia. The conference runs from February 14th–15th 2018, with pre-conference workshops on the 13th February.
+The University of Western Australia is delighted to host the 2018 Australian Mathematical Psychology Conference in Perth, Western Australia. On Tuesday 13th February there will be a day of workshops on current topics and methods in mathematical psychology and a public lecture by Professor Amy Criss on her work. The conference runs from the 14th-15th Feb with two full days of talks. 
+
+We gratefully acknowledge the support of the Office of the Deputy Vice-Chancellor (Research) at UWA, the Institute of Advanced Studies (UWA), the UWA School of Psychological Science, and the Perth Convention Bureau. We would also like to thank those contributing to workshops, especially Prof Amy Criss, who will be leading one of the workshops as well as giving a public lecture on her work.
+
+\vspace{0.5cm}
+Simon Farrell, Alice Mason, John Dunn, Ullrich Ecker, and Mark Hurlstone  
+*Organising Committee*
+
+
+*We acknowledge that the University of Western Australia is situated on Noongar land, that the Noongar people remain the spiritual and cultural custodians of their land and continue to practise their values, languages, beliefs and knowledge. We pay our respects to them and their cultures; and to elders both past and present *
+
+## Conference Code of Conduct
+We are committed to making AMPC18 an inclusive, respectful and harassment-free experience. Harassment and hostile behaviour are unwelcome at any of the scientific and social events associated with the conference. Harassment includes degrading verbal comments, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
+
+*If you have any concerns please contact one of the organisers.*
+
+\newpage
 
 # Venue Information
-All sessions will be held at The  St Catherine’s college, a short walk from the UWA campus in Crawley.
-There will be morning and afternoon tea and a continuous supply of tea and coffee at the venue - included in the registration price. There are plenty of options for lunch and coffee a short walk from the venue. 
+All sessions will be held in the Conference Room at St Catherine’s College, a short walk north of the UWA campus in Crawley. Morning and afternoon tea, as well as a continuous supply of tea/coffee is included in your registration. There are plenty of options for lunch and coffee a short walk from the venue. Cafes are located on Broadway and the Hampden Road as well as on the main campus (Hackett Cafe, Village Cafe, Reid Library).
 
 \begin{center}
 \vspace{0.5 cm}
@@ -44,30 +68,24 @@ There will be morning and afternoon tea and a continuous supply of tea and coffe
 \vspace{0.5 cm}
 \end{center}
 
-## Acknowledgement
-We acknowledge that the University of Western Australia is situated on Noongar land, that the Noongar people remain the spiritual and cultural custodians of their land and continue to practise their values, languages, beliefs and knowledge.
-We pay our respects to them and their cultures; and to elders both past and present.
-
+\newpage
 # Conference Dinner
 
-The conference dinner is on Thursday 15th Feb at Jojo's Cafe on the Swan River. 
-The dinner is approximately a 25 minute walk from the conference. You could also catch the number 24 bus near the venue. Drinks and canapes will be available from 6 pm. Dinner will be served at 7 pm.
+The conference dinner is after the last day of talks (Thursday, 15th February) at Jojo's Cafe on the Swan River. Dinners are usually held during the conference, but the flight schedules mean that most people will be flying out on 16th anyway, and this means no-one needs to worry about a 9am talk the next day.
+The venue is approximately a 25 minute walk from the conference. You could also catch the number 24 bus near the venue. Drinks and canapés will be available from 6pm and we'll be seated for dinner around 7pm.  
 
 \begin{center}
 \vspace{1 cm}
 \includegraphics[width=10cm]{images/Dinner}
 \vspace{2 cm}
 \end{center}
-
-## Conference Code of Conduct
-We are committed to making AMPC18 an inclusive, respectful and harassment-free experience. Harassment and hostile behaviour are unwelcome at any of the scientific and social events associated with the conference. Harassment includes degrading verbal comments, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
-
-If you have any concerns please contact one of the organisers.
+\newpage
 
 # Soccer 
 
 We will have the what was the traditional cricket game (now soccer) at the end of the first day of the conference (Wednesday, February
-14th). At the end of the schedule (~ 5.30pm) we will walk to Riley Oval, which is approxamtely 10 minutes walk from the conference venuce. 
+14th). At the end of the schedule (~ 5.30 pm) we will walk to Riley Oval, which is approximately 10 minutes walk from the conference venue. For anyone who would prefer not to play, there lots of places nearby to sit and talk.
+
 
 \begin{center}
 \vspace{2 cm}
@@ -76,52 +94,95 @@ We will have the what was the traditional cricket game (now soccer) at the end o
 \end{center}
 \newpage
 
+
+# Other Activities
+
+[Perth Tourist Centre](http://perthtouristcentre.com.au) has links to a variety of activities in the Perth area. Typical destinations are:
+
+* The Perth International Arts Festival runs from early Feb, with a good variety of plays, music, visual arts, and other happenings. [https://www.perthfestival.com.au/whats-on](https://www.perthfestival.com.au/whats-on)
+* Beach! Cottesloe Beach is popular, and can be reached by bus or train (plus a 10 min walk).
+* Swan Valley (30--45 mins outside Perth) hosts a number of wineries and breweries that do decent food. [https://www.swanvalley.com.au/Home](https://www.swanvalley.com.au/Home)
+* Fremantle (coffee, markets, beach, old buildings)
+* Rottnest Island. Picturesque, with lovely beaches and a great place to go cycling. Ferries depart from Fremantle; you'll want to make it a day trip.
+* Shopping: Perth CBD and Claremont Quarter are nearby (10--15 mins by bus).
+* Relax: If you want to chill out and relax, Matilda Bay and Kings Park are both nearby and offer nice scenery. Kings Park also has some good walking and running tracks.
+* Cruises: There are a variety of cruises around Fremantle and on the Swan. See over for a discount with Captain Cook Cruises.
+
+# Eating and Drinking
+
+There are several restaurants and bars near the UWA campus and conference venue around Broadway and Hampden Road. 
+
+* Little Way: Good food and drink selection at reasonable prices - sharing plates, pizza, salads. 
+* Varsity Bar: American Sports Bar serving drinks and burgers. 
+* Ciao Italia: Woodfired pizza and Italian food at decent prices. 
+* TQR Restaurant: Vietnamese restaurant - on Stirling Highway.
+* Hampden Road: North of the St Catherine's on Hampden road options include another Italian, a burger bar and The Resident pub.
+
+If you head to Perth CBD or Northbridge there are many more options.
+
+* CBD: Best restaurants in the CBD: https://www.theurbanlist.com/perth/a-list/perths-best-restaurants-in-the-cbd
+* Northbridge: Try William St and surrounding area for cheaper options including Vietnamese, Chinese, Pizza etc. 
+
+And a list of 55 bars in Perth to see you through: 
+https://www.theurbanlist.com/perth/a-list/35-perth-bars-you-should-have-been-to)
+
+\begin{center}
+\includegraphics[width=10cm]{images/CCC.pdf}
+\end{center}
+
+\pagebreak
+
+
 # Workshops
 
 There will be two free workshops held on the 13th February at the conference venue.
-
-## Morning Workshop - Masterclass in Creating Opportunities and Developing your Research Skills
+## Morning: Workshop A: Professional Development Symposium
 *10am -12 noon, St Catherine's College, UWA*
 
 In this masterclass, we will hear from three senior scientists in the field of Mathematical Psychology about the opportunities for professional development that have been available to them throughout their careers and how they reached their current positions. In particular, we will focus on how they developed their skills in computational modelling and advanced statistical methods. Furthermore, we will discuss the steps that senior scientists can take to support the Early Career Researchers they work with and ensure that we promote gender diversity in STEM. 
 
-This masterclass is supported by the Institue of Advanced Studies at UWA. Professor Amy Criss, Head of Discipline, Psychology, Syracuse University and 2018 Institute of Advanced Studies Visiting Fellow, will be joined in a panel discussion by Associate Professor Amy Perfors (University of Melbourne) and Associate Professor Chris Donkin (UNSW). Discussion will be facilitated by Dr Alice Mason (UWA) who is chair of the Gender Diversity Committee in the School of Psychological Science.  
+This masterclass is supported by the Institute of Advanced Studies at UWA. Professor Amy Criss, Head of Discipline, Psychology, Syracuse University and 2018 Institute of Advanced Studies Visiting Fellow, will be joined in a panel discussion by Associate Professor Amy Perfors (University of Melbourne) and Associate Professor Chris Donkin (UNSW). Discussion will be facilitated by Dr Alice Mason (UWA) who is chair of the Gender Diversity Committee in the School of Psychological Science.  
 
-The masterclass is open to attendees of any gender. 
-You can register for the workshop here: http://www.ias.uwa.edu.au/masterclass/STEMresearch
+The masterclass is open to attendees of any gender.  
+
+You can register for the workshop here: http://www.ias.uwa.edu.au/masterclass/STEMresearch  
+
+If you have any questions please contact Alice Mason (alice.mason@uwa.edu.au).
+
 
 ## Afternoon Workshop - Workshop on State-trace Analysis
-*ADD TIME, St Catherine's College, UWA *
+*2-5pm, St Catherine's College, UWA *
 
 Presenters: John Dunn, Mike Kalish, Rachel Stephens
 
-The aim of this workshop is to provide a brief introduction to the application of state-trace analysis (STA) to psychological data based on the book,
+The aim of this workshop is to provide a brief introduction to the application of state-trace analysis (STA) to psychological data based on the book:
+Dunn, J.C. & Kalish, M. L. (in press). *State-trace analysis*. Springer.
 
-Dunn, J.C. & Kalish, M. L. (in press). State-trace analysis. Springer.
+The following aspects will be covered (time permitting):
 
-The following aspects will be covered:
+1.       Brief introduction to the logic of STA
+2.       Fitting the monotonic model
+3.       Analysis of continuous data
+4.       Analysis of discrete data
 
-Brief introduction to the logic of STA
-Fitting the monotonic model
-Analysis of continuous data
-Analysis of discrete data
-Participants will use the custom STACMR software package developed by the authors. This will require that either Matlab or R be installed (both are supported), as well as java. Any version of java on or after version 1.7 is good. If java is not installed, it can be downloaded from http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html.
+Those attending will need to bring their own laptop to take part in the activities. Some software will need to be installed prior to the workshop; details can be found at [https://alicemason.github.io/AMPC18/_pages/Workshops/](https://alicemason.github.io/AMPC18/_pages/Workshops/) or by clicking on the links below.
 
-In addition, participants should download the following files:
-
+* Participants will use the custom STACMR software package developed by the authors. This will require that either Matlab or R be installed (both are supported), as well as java. Any version of java on or after version 1.7 is good. If java is not installed, it can be downloaded from http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html.
 * [State-trace analysis.pdf (a copy of the book)](https://alicemason.github.io/AMPC18/assets/statetrace/sta.pdf)
 * [STACMR-matlab.zip (if using Matlab)](https://alicemason.github.io/AMPC18/assets/statetrace/STACMR-matlab.zip)
 * [STACMR-R.zip (if using R)](https://alicemason.github.io/AMPC18/assets/statetrace/STACMR-R.zip)
 
-## Public Lecture by Professor Amy Criss
-A public lecture by Amy H. Criss, Head of Discipline, Psychology, Syracuse University and 2018 Institute of Advanced Studies Visiting Fellow.
-6-7pm, Woolnough Lecture Theatre, Geology Building, UWA
-Register here: http://www.ias.uwa.edu.au/lectures/criss
+## Evening: Public lecture by Prof Amy Criss
+
+Prof. Amy Criss will be giving an Institute of Advanced Studies public lecture 6pm--7pm on the 13th in Woolnough Lecture Theatre, Geology Building, UWA (a 5--10 min walk from St Catherine's). The talk is titled "How remembering causes forgetting".
+You can find out more details and book a seat [http://www.ias.uwa.edu.au/lectures/criss](http://www.ias.uwa.edu.au/lectures/criss)
+
+"Humans rely on memory at nearly every moment: we use our memories of the past to predict the future, and memory is essential to our concept of self. Nevertheless, our memory for the details of events is imperfect. Some details of an event are forgotten and other details can be falsely remembered. One other striking characteristic of memory is that that act of remembering can change what is being remembered: retrieving events from memory changes our memory of those individual events.
+
+"In this talk Professor Amy Criss will explain how the effects of retrieval on memory can be understood using carefully designed experiments, and show that the accuracy of memory for an event declines as we repeatedly recall that event. She will also discuss how theories of memory can be expressed as computational models, and how we can use computational models to understand how forgetting is caused by remembering."
 
 
 \newpage
-# Conference Timetable
-
 <style>
 th, td {
     padding: 5px;
@@ -133,6 +194,8 @@ tr:nth-child(even) {
 </style>
 
 \renewcommand{\arraystretch}{1.5}
+
+<!-- ![](reflection.png){width=3in} -->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -146,19 +209,17 @@ library("lubridate")
 ```{r readxls, echo=FALSE}
 abstracts <- read.xls ("Maths Psych_V2.xlsx", sheet = 1, header = TRUE,
                               stringsAsFactors=FALSE)
-
-#abstracts <- abstracts[abstracts$Abstract!="",]
-abstracts$Abstract <- iconv(abstracts$Abstract)
-abstracts$All.Authors <- iconv(abstracts$All.Authors)
-abstracts$Affiliations <- iconv(abstracts$Affiliations)
-abstracts$Title <- iconv(abstracts$Title)
-
 titles <- read.xls ("Maths Psych_V2.xlsx", sheet = 3, header = TRUE,
                               stringsAsFactors=FALSE)
 titles <- titles[titles$Title!="",]
 titles$Title <- iconv(titles$Title)
 titles$All.Authors <- iconv(titles$All.Authors)
 titles$startt <- ""
+
+abstracts$All.Authors <- iconv(abstracts$All.Authors)
+abstracts$Title <- iconv(abstracts$Title)
+abstracts$Abstract <- iconv(abstracts$Abstract)
+abstracts$Abstract[abstracts$First.Author.Surname=="Dunn"] <- "Risky choice involves selection between two or more options each of which is a set of *n* ordered pairs, ($p_i,x_i$) , where $x_i$ is a (positive, negative, or zero) payoff and $p_i$ is its probability of occurrence, with $\\sum_i^n p_i=1$.  There are a large number of different models of risky choice that fall into two broad classes; fixed utility models that satisfy the condition of *simple scalability* and everything else. A prominent example of the former is Cumulative Prospect Theory (Tversky & Kahneman, 1992); a prominent example of the latter is Decision Field Theory (Busemeyer & Townsend, 1993). While it is known that behaviour can be observed that inconsistent with all models, this has largely been based on the construction of special cases. We decided to test the class of fixed utility models against a set of relatively unselected risky choices using signed difference analysis (SDA). The advantage of this approach is that there is no requirement to posit a particular form for the error function that links the difference in the utility of two gambles, *A* and *B*, with the probability of choosing *A* over *B*, $P(A \\succ B)$ . We presented groups of participants with 30 *variable* gambles (*A*) each paired with one of four *fixed* gambles (*B*) and tested the prediction of fixed utility models that $P(A \\succ B)$ has the same order over *A* for all *B* using the statistical test developed by Kalish, Dunn, Burdakov and Sysoev (2016). We discuss the implications of the results and explore a relatively simple extension to a (minimally) more complex model.\\ \\*References* \\Busemeyer, J. R., & Townsend, J. T. (1993) Decision Field Theory: A dynamic cognition approach to decision making. *Psychological Review, 100*, 432--459.\\ \\Kalish, M. L., Dunn, J. C., Burdakov, O. P., & Sysoev, O. (2016). A statistical test for equality of latent orders. *Journal of Mathematical Psychology, 70*, 1-11\\ \\Tversky, A. & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5(4)*, 297--323."
 ```
 
 ```{r getTimes, echo=FALSE, warning=FALSE, results="asis"}
@@ -182,6 +243,7 @@ for (days in 1:2){
     }
     
     if (mornaft=="Morning"){
+      cat("  \n  \\pagebreak  \n  \n")
       cat(paste("#", 
               weekdays(as.Date(thetime)), 
               as.Date(thetime, format="%d/%m/%Y"),"\n\n"))
@@ -221,20 +283,27 @@ for (days in 1:2){
 }
 ```
 
-\newpage
+\pagebreak
+
 # Abstracts
-``` {r Abstracts, echo=FALSE, warning=FALSE, results="asis"}
-  for (i in 1:dim(abstracts)[1]){
-  
-  Title<-abstracts$Title[i]
-  Authors<-abstracts$All.Authors[i]
-  Affiliation<-abstracts$Affiliation[i]
-  Abstract<-abstracts$Abstract[i]
-  cat("\n\n\n", Title,"\n")
-  cat("\n", Authors,"\n")
-  cat("\n", Affiliation,"\n")
-  cat("\n", Abstract,"\n\n\n\n\n")
-  }
+
+```{r abstracts, echo=FALSE, warning=FALSE, results="asis"}
+for (rr in 1:dim(abstracts)[1]){
+    cat(abstracts$Title[rr])
+    cat("  \n")
+    cat("  \n")
+    cat(abstracts$All.Authors[rr])
+    cat("  \n")
+    cat(abstracts$Affiliations[rr])
+    cat("  \n")
+    cat("  \n")
+    ttext <- gsub(pattern = "\\\\\\\\", replacement = "  \n  \n", x = abstracts$Abstract[rr])
+    cat(gsub(pattern = "\\\\([^\\s])", replacement = "  \n \\1", x = ttext))
+    cat("  \n  \\pagebreak  \n  \n")
+    #print(abstracts$Affiliations[rr])
+    #print(abstracts$Affiliations[rr])
+    #print(abstracts$Abstract[rr])
+}
 ```
 
 
