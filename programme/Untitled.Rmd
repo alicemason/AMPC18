@@ -1,13 +1,11 @@
 ---
-title: "AMPC18 Programme"
+title: "Australian Mathematical Psychology Conference 2018"
 author: ""
-date: ""
+date: "Perth, WA, 13th--15th February 2018"
 output:
   pdf_document:
     keep_tex: true
-  html_document:
-    keep_md: true
-    theme: "cerulean"
+    md_extensions: +tex_math_single_backslash
 ---
 
 <style>
@@ -21,6 +19,127 @@ tr:nth-child(even) {
 </style>
 
 \renewcommand{\arraystretch}{1.5}
+
+\begin{center}
+\includegraphics[height=15cm]{images/reflection.png}
+\begin{table}
+\begin{tabular}{cccc}
+\includegraphics[width=3cm]{images/UWA-Full-Hor-CMYK.png}&
+\includegraphics[width=3cm]{images/PCB.png}&
+School of Psychological Science &
+Institute of Advanced Studies
+\end{tabular}
+\end{table}
+\end{center}
+
+\pagebreak
+
+# Welcome
+
+We are delighted to welcome you to the 2018 Australian Mathematical Psychology Conference in Perth, Western Australia. We look forward a day of workshops on important topics and methods in mathematical psychology (13th February), a public lecture by Prof Amy Criss on her work (13th February) and two days of talks lying in the intersection $Maths \cap Psychology$ (14-15 February).
+
+We gratefully acknowledge the support of the Office of the Deputy Vice-Chancellor (Research) at UWA, the Institute of Advanced Studies (UWA), the UWA School of Psychological Science, and the Perth Convention Bureau. We would also like to thank those contributing to workshops, especially Prof Amy Criss, who will be leading one of the workshops as well as giving a public lecture on her work.
+
+\vspace{0.5cm}
+
+Simon Farrell, Alice Mason, John Dunn, Ullrich Ecker, and Mark Hurlstone
+Organising Committee
+
+\vspace{1cm}
+
+*The University of Western Australia acknowledges that it is situated on Noongar land, that the Noongar people remain the spiritual and cultural custodians of their land and continue to practise their values, languages, beliefs and knowledge.*
+
+\pagebreak
+
+# Venue
+
+The workshops and conference talks will be held in the Conference Room, St Catherine's College. St Catherine's College is located just north of the UWA campus. Tea and coffee will be provided, along with snacks in the morning and afternoon. Cafes for lunch are located on the main campus (Hackett Cafe, Village Cafe, Reid Library) as well as on Hampden Road.
+
+\begin{center}
+\includegraphics[width=16cm]{images/Venue.png}
+\end{center}
+
+# Soccer
+
+Following the talks on 14th February, we will proceed to Riley Oval (map below) for some soccer action. For those who prefer not to play, there are some pleasant places nearby to sit and talk.
+
+\begin{center}
+\includegraphics[width=10cm]{images/Soccer.png}
+\end{center}
+
+# Conference dinner
+
+The conference dinner will be held at Jojo's from 6pm on 15th February (last day of talks). Dinners are usually held during the conference, but the flight schedules mean that most people will be flying out on 16th anyway, and this means no-one needs to worry about drinking before a 9am talk the next day.
+
+Drinks will be from 6pm, and we will be seated for dinner around 7.
+
+\begin{center}
+\includegraphics[width=10cm]{images/Dinner.png}
+\end{center}
+
+# Other Activities
+
+[Perth Tourist Centre](http://perthtouristcentre.com.au) has links to a variety of activities in the Perth area. Typical destinations are:
+
+* The Perth International Arts Festival runs from early Feb, with a good variety of plays, music, visual arts, and other happenings. [https://www.perthfestival.com.au/whats-on](https://www.perthfestival.com.au/whats-on)
+* Beach! Cottesloe Beach is popular, and can be reached by bus or train (and a 10 min walk).
+* Swan Valley (30--45 mins outside Perth) hosts a number of wineries and breweries that do decent food. [https://www.swanvalley.com.au/Home](https://www.swanvalley.com.au/Home)
+* Fremantle (coffee, shopping, old buildings)
+* Rottnest Island. Picturesque, with lovely beaches and a great place to go cycling. Ferries depart from Fremantle; you'll want to make it a day trip.
+* Shopping: Perth CBD and Claremont Quarter are nearby (10--15 mins by bus).
+* Relax: If you want to chill out and relax, Matilda Bay and Kings Park are both nearby and offer nice scenery. Kings Park also has some good walking and running tracks.
+* Cruises: There are a variety of cruises around Fremantle and on the Swan. See over for a discount with Captain Cook Cruises.
+
+[Alice, could you put some stuff here about eating out and drinking. Places nearby (e.g., Varsity) and in the city]
+
+\begin{center}
+\includegraphics[width=10cm]{images/CCC.pdf}
+\end{center}
+
+\pagebreak
+
+# Tuesday 2018-02-13
+
+## Morning: Workshop A: Professional Development Symposium
+
+Panel Discussion on Gender and STEM - St Catherine's college 10 am-12 noon
+
+This career development workshop aims to promote gender equality and diversity in mathematical psychology. Follow this link to read more about the workshop and register: [http://www.ias.uwa.edu.au/masterclass/STEMresearch](http://www.ias.uwa.edu.au/masterclass/STEMresearch).
+
+Professor Amy Criss will be joined in a panel discussion by Associate Professor Amy Perfors (University of Melbourne) and Associate Professor Chris Donkin (UNSW). Discussion will be facilitated by Dr Alice Mason (UWA) who is chair of the Gender Diversity Committee in the School of Psychological Science.  This masterclass is open to attendees of any gender. 
+
+Prof Criss is Head of Discipline (Psychology) at Syracuse, a world-leading expert in the computational modelling of human memory. Prof Criss has been [substantially involved](http://memolab.syr.edu/Pride.html) in efforts to enhance diversity in undergraduate students, and was President of the Society for Mathematical Psychology. Prof Criss involvement is supported by UWA's Institute of Advanced Studies.
+
+If you have any questions please contact Alice Mason (alice.mason@uwa.edu.au).
+
+## Afternoon: Workshop B: State-trace Analysis
+
+Presenters: John Dunn, Mike Kalish, Rachel Stephens
+St Catherine's college 2pm--5pm
+
+The aim of this workshop is to provide a brief introduction to the application of state-trace analysis (STA) to psychological data based on the book
+
+Dunn, J.C. & Kalish, M. L. (in press). *State-trace analysis*. Springer.
+
+The following aspects will be covered (time permitting):
+
+1.       Brief introduction to the logic of STA
+2.       Fitting the monotonic model
+3.       Analysis of continuous data
+4.       Analysis of discrete data
+
+Those attending will need to bring their own laptop to take part in the activities. Some software will need to be installed prior to the workshop; details can be found at [https://alicemason.github.io/AMPC18/_pages/Workshops/](https://alicemason.github.io/AMPC18/_pages/Workshops/)
+
+## Evening: Public lecture by Prof Amy Criss
+
+Prof. Amy Criss will be giving an Institute of Advanced Studies public lecture 6pm--7pm on the 13th in Woolnough Lecture Theatre, Geology Building, UWA (a 5--10 min walk from St Catherines). The talk is titled "How remembering causes forgetting".
+You can find out more details and book a seat [http://www.ias.uwa.edu.au/lectures/criss](http://www.ias.uwa.edu.au/lectures/criss)
+
+"Humans rely on memory at nearly every moment: we use our memories of the past to predict the future, and memory is essential to our concept of self. Nevertheless, our memory for the details of events is imperfect. Some details of an event are forgotten and other details can be falsely remembered. One other striking characteristic of memory is that that act of remembering can change what is being remembered: retrieving events from memory changes our memory of those individual events.
+
+"In this talk Professor Amy Criss will explain how the effects of retrieval on memory can be understood using carefully designed experiments, and show that the accuracy of memory for an event declines as we repeatedly recall that event. She will also discuss how theories of memory can be expressed as computational models, and how we can use computational models to understand how forgetting is caused by remembering."
+
+<!-- ![](reflection.png){width=3in} -->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -40,6 +159,11 @@ titles <- titles[titles$Title!="",]
 titles$Title <- iconv(titles$Title)
 titles$All.Authors <- iconv(titles$All.Authors)
 titles$startt <- ""
+
+abstracts$All.Authors <- iconv(abstracts$All.Authors)
+abstracts$Title <- iconv(abstracts$Title)
+abstracts$Abstract <- iconv(abstracts$Abstract)
+abstracts$Abstract[abstracts$First.Author.Surname=="Dunn"] <- "Risky choice involves selection between two or more options each of which is a set of *n* ordered pairs, ($p_i,x_i$) , where $x_i$ is a (positive, negative, or zero) payoff and $p_i$ is its probability of occurrence, with $\\sum_i^n p_i=1$.  There are a large number of different models of risky choice that fall into two broad classes; fixed utility models that satisfy the condition of *simple scalability* and everything else. A prominent example of the former is Cumulative Prospect Theory (Tversky & Kahneman, 1992); a prominent example of the latter is Decision Field Theory (Busemeyer & Townsend, 1993). While it is known that behaviour can be observed that inconsistent with all models, this has largely been based on the construction of special cases. We decided to test the class of fixed utility models against a set of relatively unselected risky choices using signed difference analysis (SDA). The advantage of this approach is that there is no requirement to posit a particular form for the error function that links the difference in the utility of two gambles, *A* and *B*, with the probability of choosing *A* over *B*, $P(A \\succ B)$ . We presented groups of participants with 30 *variable* gambles (*A*) each paired with one of four *fixed* gambles (*B*) and tested the prediction of fixed utility models that $P(A \\succ B)$ has the same order over *A* for all *B* using the statistical test developed by Kalish, Dunn, Burdakov and Sysoev (2016). We discuss the implications of the results and explore a relatively simple extension to a (minimally) more complex model.\\ \\*References* \\Busemeyer, J. R., & Townsend, J. T. (1993) Decision Field Theory: A dynamic cognition approach to decision making. *Psychological Review, 100*, 432--459.\\ \\Kalish, M. L., Dunn, J. C., Burdakov, O. P., & Sysoev, O. (2016). A statistical test for equality of latent orders. *Journal of Mathematical Psychology, 70*, 1-11\\ \\Tversky, A. & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. *Journal of Risk and Uncertainty, 5(4)*, 297--323."
 ```
 
 ```{r getTimes, echo=FALSE, warning=FALSE, results="asis"}
@@ -63,6 +187,7 @@ for (days in 1:2){
     }
     
     if (mornaft=="Morning"){
+      cat("  \n  \\pagebreak  \n  \n")
       cat(paste("#", 
               weekdays(as.Date(thetime)), 
               as.Date(thetime, format="%d/%m/%Y"),"\n\n"))
@@ -99,5 +224,28 @@ for (days in 1:2){
                        escape=FALSE))
   
   }
+}
+```
+
+\pagebreak
+
+# Abstracts
+
+```{r abstracts, echo=FALSE, warning=FALSE, results="asis"}
+for (rr in 1:dim(abstracts)[1]){
+    cat(abstracts$All.Authors[rr])
+    cat("  \n")
+    cat(abstracts$Affiliations[rr])
+    cat("  \n")
+    cat("  \n")
+    cat(abstracts$Title[rr])
+    cat("  \n")
+    cat("  \n")
+    ttext <- gsub(pattern = "\\\\\\\\", replacement = "  \n  \n", x = abstracts$Abstract[rr])
+    cat(gsub(pattern = "\\\\([^\\s])", replacement = "  \n \\1", x = ttext))
+    cat("  \n  \\pagebreak  \n  \n")
+    #print(abstracts$Affiliations[rr])
+    #print(abstracts$Affiliations[rr])
+    #print(abstracts$Abstract[rr])
 }
 ```

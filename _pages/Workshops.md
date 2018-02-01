@@ -17,7 +17,7 @@ This career development workshop aims to promote gender equality and diversity i
 
 Professor Amy Criss will be joined in a panel discussion by Associate Professor Amy Perfors (University of Melbourne) and Associate Professor Chris Donkin (UNSW). Discussion will be facilitated by Dr Alice Mason (UWA) who is chair of the Gender Diversity Committee in the School of Psychological Science.  This masterclass is open to attendees of any gender. 
 
- Prof Criss is Head of Discipline (Psychology) at Syracuse, a world-leading expert in the computational modelling of human memory. Prof Criss has been [substantially involved](http://memolab.syr.edu/Pride.html) in efforts to enhance diversity in undergraduate students, and was President of the Society for Mathematical Psychology. Prof Criss involvement is supported by UWA's Institute of Advanced Studies.
+Prof Criss is Head of Discipline (Psychology) at Syracuse, a world-leading expert in the computational modelling of human memory. Prof Criss has been [substantially involved](http://memolab.syr.edu/Pride.html) in efforts to enhance diversity in undergraduate students, and was President of the Society for Mathematical Psychology. Prof Criss involvement is supported by UWA's Institute of Advanced Studies.
 
 If you have any questions please contact Alice Mason (alice.mason@uwa.edu.au).
 
@@ -34,7 +34,7 @@ The aim of this workshop is to provide a brief introduction to the application o
 
 Dunn, J.C. & Kalish, M. L. (in press). *State-trace analysis*. Springer.
 
-The following aspects will be covered:
+The following aspects will be covered (time permitting):
 
 1.       Brief introduction to the logic of STA
 2.       Fitting the monotonic model
@@ -43,7 +43,7 @@ The following aspects will be covered:
 
 Participants will use the custom STACMR software package developed by the authors. This will require that either Matlab or R be installed (both are supported), as well as java. Any version of java on or after version 1.7 is good. If java is not installed, it can be downloaded from [http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).
 
-In addition, participants should download the following files:
+In addition, participants should download the following files before the workshop:
 
 * [State-trace analysis.pdf (a copy of the book)](/AMPC18/assets/statetrace/sta.pdf)
 * [STACMR-matlab.zip (if using Matlab)](/AMPC18/assets/statetrace/STACMR-matlab.zip)
