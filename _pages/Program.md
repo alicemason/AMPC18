@@ -9,8 +9,6 @@
 
 # Program
 
-We will post a PDF of the program in the next few weeks.
-
-# Schedule
-You can download a copy of the draft schedule for the conference here. If there are any issues, please let me know ASAP. If your talk has not been included in the draft schedule, get in touch so we can correct any oversights.
-* [Schedule.pdf](/AMPC18/assets/AMPC18schedule.pdf)
+The full program is now available to download. There may be some minor modifcations/additions before the 13th. 
+If there are any issues, please let us know ASAP, so we can correct any oversights.
+* [Program.pdf](/AMPC18/assets/AMPC18Program.pdf)
