@@ -236,7 +236,7 @@ for (days in 1:2){
       }
     } else if (days==2){
       if (mornaft=="Morning"){
-        thetime <- strptime("2018-02-15 08:50", format="%Y-%m-%d %H:%M", tz="")
+        thetime <- strptime("2018-02-15 09:00", format="%Y-%m-%d %H:%M", tz="")
         foct <- titles[titles$Sessions>4 & titles$Sessions<7,]
       } else {
         foct <- titles[titles$Sessions>6,]
@@ -258,7 +258,7 @@ for (days in 1:2){
           if (days==1) {
             thetime <- thetime + minutes(80)
           } else if (days==2) {
-          thetime <- thetime + minutes(60)
+          thetime <- thetime + minutes(70)
       }} else if (foct$Allocation[tt]=="B"){
         thetime <- thetime + minutes(10)
       } else if (foct$Allocation[tt]=="F"){
