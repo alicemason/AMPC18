@@ -24,7 +24,7 @@ If you have any questions please contact Alice Mason (alice.mason@uwa.edu.au).
 ## Public Lecture
 
 Prof. Criss will also be giving a public lecture 6-7pm on the 13th entitled: “How remembering causes forgetting”.
-You can find out more details and book a seat [here] (http://www.ias.uwa.edu.au/lectures/criss)
+You can find out more details and book a seat [here](http://www.ias.uwa.edu.au/lectures/criss)
 
 ## Workshop B: Workshop on State-trace Analysis (Afternoon)
 
