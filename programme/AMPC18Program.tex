@@ -375,10 +375,13 @@ clicking on the links below.
   (if using R)}
 \end{itemize}
 
-Please note: You will need to install JRE (Java Runtime Environment).
-You can do this from (java.com).
+\subsubsection{Installing Java Runtime
+Environment}\label{installing-java-runtime-environment}
 
-Windows:
+Please note: You will need to install JRE (Java Runtime Environment).
+You can do this from \url{https://java.com}.
+
+\subsubsection{Windows}\label{windows}
 
 There is a compatibility issue with R. Specifically, if your version of
 R is 32-bit then you need to install 32-bit JRE. Likewise, if your
@@ -391,18 +394,17 @@ To locate the correct version of java, go to
 \url{https://java.com/en/download/faq/java_win64bit.xml} and follow the
 links.
 
-Mac:
+\subsubsection{Mac}\label{mac}
 
 Go to the follow web page and do what it says -- if you already have
 java installed, you can probably do fewer of them. But do them all
 anyway.
 (\url{https://github.com/MTFA/CohortEx/wiki/Run-rJava-with-RStudio-under-OSX-10.10,-10.11-(El-Capitan)-or-10.12-(Sierra)})
 
-Then do this in R: \textgreater{}\textgreater{} Sys.setenv(JAVA\_HOME =
-`/Library/Java//Home') \textgreater{}\textgreater{}
+Then do this in R: Sys.setenv(JAVA\_HOME = `/Library/Java//Home')
 Sys.setenv(LD\_LIBRARY\_PATH = `\(LD_LIBRARY_PATH:\)JAVA\_HOME/lib')
 
-Now launch R-studio
+Now launch R-studio.
 
 \subsection{Evening: Public lecture by Prof Amy
 Criss}\label{evening-public-lecture-by-prof-amy-criss}
