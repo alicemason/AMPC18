@@ -49,7 +49,7 @@ In addition, participants should download the following files before the worksho
 * [STACMR-matlab.zip (if using Matlab)](/AMPC18/assets/statetrace/STACMR-matlab.zip)
 * [STACMR-R.zip (if using R)](/AMPC18/assets/statetrace/STACMR-R.zip)
 
-Please note: You will need to install JRE (Java Runtime Environment). You can do this from (java.com). 
+Please note: You will need to install JRE (Java Runtime Environment). You can do this from [java.com](https://java.com). 
 
 Windows:
 
@@ -57,11 +57,12 @@ There is a compatibility issue with R. Specifically, if your version of R is 32-
 
 To find which version of R you have, type version in R and look for w64 or w32 against "platform".
 
-To locate the correct version of java, go to https://java.com/en/download/faq/java_win64bit.xml and follow the links.
+To locate the correct version of java, go to [https://java.com/en/download/faq/java_win64bit.xml](https://java.com/en/download/faq/java_win64bit.xml) and follow the links.
 
 Mac:
 
 Go to the follow web page and do what it says – if you already have java installed, you can probably do fewer of them.  But do them all anyway.
+[https://github.com/MTFA/CohortEx/wiki/Run-rJava-with-RStudio-under-OSX-10.10,-10.11-(El-Capitan)-or-10.12-(Sierra)]
 (https://github.com/MTFA/CohortEx/wiki/Run-rJava-with-RStudio-under-OSX-10.10,-10.11-(El-Capitan)-or-10.12-(Sierra))
 
 Then do this in R:
