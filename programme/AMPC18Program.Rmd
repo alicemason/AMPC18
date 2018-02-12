@@ -188,9 +188,11 @@ To locate the correct version of java, go to https://java.com/en/download/faq/ja
 Go to the follow web page and do what it says – if you already have java installed, you can probably do fewer of them.  But do them all anyway.
 (https://github.com/MTFA/CohortEx/wiki/Run-rJava-with-RStudio-under-OSX-10.10,-10.11-(El-Capitan)-or-10.12-(Sierra))
 
-Then do this in R:
-Sys.setenv(JAVA_HOME = '/Library/Java//Home') 
-Sys.setenv(LD_LIBRARY_PATH = '$LD_LIBRARY_PATH:$JAVA_HOME/lib')
+Then do this in R:  
+
+\>\> Sys.setenv(JAVA_HOME = '/Library/Java//Home')  
+
+\>\> Sys.setenv(LD_LIBRARY_PATH = '$LD_LIBRARY_PATH:$JAVA_HOME/lib')  
 
 Now launch R-studio.
 
